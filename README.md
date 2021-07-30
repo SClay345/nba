@@ -1,6 +1,6 @@
 # NBA Final's Winner Generator
 ______
-##Team
+## Team
 ____
 Will select one of the possible top teams for the year 2022.
 The possible teams from the west are the Suns, Lakers, Warriors, Clippers.
