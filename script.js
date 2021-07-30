@@ -3,7 +3,7 @@ const generateRandomNumber = num => {
 }
 
 const nbaGenerator = {
-    teams: ['Suns', 'Lakers', 'Bucks', 'Nets', 'Warriors', 'Clippers' ],
+    teams: ['Suns', 'Lakers', 'Bucks', 'Nets', 'Warriors', 'Clippers', '76ers' ],
     games: [4, 5, 6, 7],
     arena: ['Home', 'Away']
 
